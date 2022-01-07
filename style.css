@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: linear-gradient(deeppink,pink)
+}
+h1{
+    font-weight: bold;
+    color: white;
+}
+h2{
+    color: darkcyan;
+}
+h3{
+    color: darkcyan;
+}
+.links{
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:'Pushster', cursive;;
+    font-size: 20px;
+}
+.links:hover{
+    background-color: blueviolet;
+}
+a{
+    text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+    
+}
